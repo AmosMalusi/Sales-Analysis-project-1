@@ -62,7 +62,5 @@ The final dashboard highlights:
 2. Explore the Power BI dashboard for visual insights
 3. Read the documentation to understand the analytical decisions made
 
----
-
 ## Notes
 This project was created for learning and portfolio purposes to demonstrate practical data analytics skills, structured thinking, and business-focused insights.
